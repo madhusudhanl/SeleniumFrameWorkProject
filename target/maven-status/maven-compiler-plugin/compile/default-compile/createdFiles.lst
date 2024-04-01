@@ -1,0 +1,8 @@
+seleniumFrameWork\PageObject\LandingPage.class
+seleniumFrameWork\PageObject\OrderHistroyPage.class
+seleniumFrameWork\AbstractComponents\AbstractComponents.class
+seleniumFrameWork\PageObject\ProdCatalog.class
+seleniumFrameWork\PageObject\placeOrderPage.class
+seleniumFrameWork\PageObject\ConfrimationPage.class
+seleniumFrameWork\PageObject\cartPage.class
+resources\ExtentReporterNG.class

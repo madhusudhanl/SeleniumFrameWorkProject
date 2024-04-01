@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PurchaseOrder]" guice-stage="DEVELOPMENT">
+  <test name="PurchaseOrder Test(failed)">
+    <groups>
+      <run>
+        <include name="PurchaseOrder"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Project2024.SeleniumFrameWork.PurchaseOrderTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="submitOrderTest" invocation-numbers="0 1"/>
+          <include name="startApplication"/>
+        </methods>
+      </class> <!-- Project2024.SeleniumFrameWork.PurchaseOrderTest -->
+    </classes>
+  </test> <!-- PurchaseOrder Test(failed) -->
+</suite> <!-- Failed suite [PurchaseOrder] -->
